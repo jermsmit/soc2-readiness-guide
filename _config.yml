@@ -1,0 +1,12 @@
+title: SOC 2 Readiness Guide for Life Sciences
+description: A practical, field-tested guide to SOC 2 readiness for life sciences companies, covering the standard Trust Services Criteria and the GxP, 21 CFR Part 11, and HIPAA overlap.
+theme: jekyll-theme-cayman
+markdown: kramdown
+show_downloads: true
+
+# Once you have a custom domain, create a file named CNAME at the repo root
+# containing only your domain, for example: guide.yourdomain.com
+# Then set that domain in your DNS and in the GitHub Pages settings for this repo.
+
+# To enable Pages: repo Settings > Pages > Build and deployment > Deploy from a branch
+# Branch: main, folder: / (root)
