@@ -51,7 +51,7 @@ The `/templates` folder has usable starting points: policy templates, an evidenc
 
 ## Status
 
-This guide is under active development. Sections marked "in progress" contain an outline of what will be covered. Full content is being added section by section.
+The core guide is complete. All thirteen sections, the three policy templates, and both tracker templates are fully written and ready to use. Feedback and pull requests are still very welcome, this guide will keep improving as readers point out where it doesn't match what they actually experienced.
 
 ## License and contributions
 
