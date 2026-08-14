@@ -4,6 +4,20 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 show_downloads: true
 
+# jekyll-seo-tag (already bundled with GitHub Pages) reads the "image" value
+# below to set the og:image and twitter:image meta tags, which is what
+# LinkedIn, Twitter/X, and Slack pull when generating a link preview card.
+# Setting it via a site-wide front matter default applies it to every page,
+# so no per-page image needs to be set.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-image.png
+
+twitter:
+  card: summary_large_image
+
 # Once you have a custom domain, create a file named CNAME at the repo root
 # containing only your domain, for example: guide.yourdomain.com
 # Then set that domain in your DNS and in the GitHub Pages settings for this repo.
