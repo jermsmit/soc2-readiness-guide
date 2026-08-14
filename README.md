@@ -59,4 +59,6 @@ Released under [MIT License](LICENSE). Issues and pull requests are welcome. If 
 
 ## About
 
-Written by an IT leader with direct experience taking life sciences companies through SOC 2 Type I and Type II audits, including the GxP and 21 CFR Part 11 overlap that most generic SOC 2 content ignores.
+Written by Jermal Smith, an IT leader and security champion with over a decade of hands-on experience building and running security compliance programs inside life sciences organizations. Jermal was a founding member of his organization's corporate security compliance function and served as the incident handling focal point, the person responsible when something actually happened, not just when a policy needed a signature.
+
+Over that decade, the programs he built and led carried the organization through repeated SOC 2 Type II audits with zero findings, controls that were designed to be enforced, not just documented, and evidence that held up because the practices behind it were real. This guide exists because most SOC 2 content available publicly is written by consultants and vendors who have never actually sat across from an auditor defending a control they built themselves. Jermal has, for ten years running, and wanted the people doing this work for the first time to have something written by someone who has actually lived it.
